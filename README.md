@@ -1,4 +1,6 @@
-# Tarea 3.8 Prueba del camino básico y Eclemma (2). esMayorMenorCero
+# Tarea 4.7. Practica2. Git. Haciendo una copia en remoto
+
+TRABAJO NO DEFINITIVO, he cometido un error al principio, queria borra el repositorio de github para empezar de 0, pero no he podido, te entrego el trabajo terminado a sabiendas de que tiene errores para mañana en clase ver si me lo puedes borrar y rehacerlo.
 
 ## Índice:
 1. [Estudia el estado del repositorio local: Todos los commits (hasta "mi imagen") y con tu directorio de trabajo limpio (sin ningún cambio por añadir al repositorio). Confirma que no estás en modo detached HEAD (el último commit debe reflejar HEAD -> master)](#uno)
@@ -9,6 +11,7 @@
 
 
 ## Estudia el estado del repositorio local: Todos los commits (hasta "mi imagen") y con tu directorio de trabajo limpio (sin ningún cambio por añadir al repositorio). Confirma que no estás en modo detached HEAD (el último commit debe reflejar HEAD -> master) <a name="uno"></a>
+https://github.com/iesgrancapitan-eed/practica2-git-haciendo-copia-en-remoto-sergiovj2001/blob/main/images/1.PNG
 
 ## Acepta esta tarea de GitHub. Crearás un repositorio remoto VACÍO. No tiene ni README.md. <a name="dos"></a> 
 
@@ -16,7 +19,7 @@
 
 
 ## En local (no debes trabajar en el remoto) y siempre desde git Bash añade el fichero README.md con estas instrucciones y sus pantallazos. <a name="cuatro"></a>
-
+https://github.com/iesgrancapitan-eed/practica2-git-haciendo-copia-en-remoto-sergiovj2001/blob/main/images/4.PNG
 
 ## Sincroniza tus cambios con el repositorio remoto (git push)<a name="cinco"></a> 
 
